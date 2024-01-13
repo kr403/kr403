@@ -3,17 +3,17 @@
 
 <p align="left"> <a href="https://twitter.com/khalidredwan6" target="blank"><img src="https://img.shields.io/twitter/follow/khalidredwan6?logo=twitter&style=for-the-badge" alt="khalidredwan6" /></a> </p>
 
-- 🔭 Working as **Asst. Software Test Engineer** at **Red.Digital IT** **(** subsidiary of **Robi Axiata Ltd.)**
+- 🔭 Working as **Asst. Software Test Engineer** at **Red.Digital IT** **(** subsidiary of **Robi Axiata Limited)**.
 
 - 🌱 I’m currently exploring about **Test Automation.**
 
-- 👨‍💻 All of my projects are available at [URL](https://github.com/kr403?tab=repositories)
+- 👨‍💻 All of my projects are available at [URL](https://github.com/kr403?tab=repositories).
 
 - 💬 Ask me about **Python, Java, C, C++ & Test Automation.**
 
-- 📫 How to reach me **khalidredwan403@gmail.com**
+- 📫 How to reach me [Email](khalidredwan403@gmail.com).
 
-- 📄 Know about my experiences [URL](https://drive.google.com/file/d/1yLVY1CIujuKdzRfHkDkJLqE7kJhxT6hG/view?usp=sharing)
+- 📄 Know about my experiences [URL](https://drive.google.com/file/d/1yLVY1CIujuKdzRfHkDkJLqE7kJhxT6hG/view?usp=sharing).
 
 - ⚡ Fun fact **Not be yourself but better yourself.**
 
