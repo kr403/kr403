@@ -3,17 +3,18 @@
 
 <p align="left"> <a href="https://twitter.com/khalidredwan6" target="blank"><img src="https://img.shields.io/twitter/follow/khalidredwan6?logo=twitter&style=for-the-badge" alt="khalidredwan6" /></a> </p>
 
-- 🔭 I’m currently working on **Deep Learning & Human Computer Interaction research projects.**
+- 🔭 Working as **Asst. Software Test Engineer** at **Red.Digital IT** **(**subsidiary of **Robi Axiata Ltd.)**
 
-- 🌱 I’m currently learning **Software Testing and Quality Assurance Techniques - STQA**
+
+- 🌱 I’m currently exploring about **Test Automation.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/kr403?tab=repositories](https://github.com/kr403?tab=repositories)
 
-- 💬 Ask me about **Python, Java & C++.**
+- 💬 Ask me about **Python, Java, C, C++ & Test Automation.**
 
 - 📫 How to reach me **khalidredwan403@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1eqsYgIBmD26OzSOIC-Ouf6CatcYEOz1L/view?usp=sharing](https://drive.google.com/file/d/1eqsYgIBmD26OzSOIC-Ouf6CatcYEOz1L/view?usp=sharing)
+- 📄 Know about my experiences [URL](https://drive.google.com/file/d/1yLVY1CIujuKdzRfHkDkJLqE7kJhxT6hG/view?usp=sharing)
 
 - ⚡ Fun fact **Not be yourself but better yourself.**
 
