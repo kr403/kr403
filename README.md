@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Python, Java, C, C++ & Test Automation.**
 
-- 📫 How to reach me [Email](khalidredwan403@gmail.com).
+- 📫 How to reach me <a href="khalidredwan403@gmail.com" target="blank">Email</a>.
 
 - 📄 Know about my experiences [URL](https://drive.google.com/file/d/1yLVY1CIujuKdzRfHkDkJLqE7kJhxT6hG/view?usp=sharing).
 
